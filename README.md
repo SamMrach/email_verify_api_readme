@@ -21,12 +21,12 @@ Send an email address to validate in the following format:
 {
   "email": "sam@openai.com"
 }
-
+```
 ### Request Payload
 ```json
 {
   "email": "sam@openai.com",
   "is_valid": true
 }
-
+```
 🏆** Get Started Today! ** [Email Verification API on RapidAPI](https://rapidapi.com/merrachsamir2000-VROpiUqxyqE/api/email-verifier23) 
